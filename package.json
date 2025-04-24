@@ -16,7 +16,7 @@
     "react": "^16.4.1",
     "react-apollo": "^2.1.5",
     "react-dom": "^16.4.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^3.0.1",
     "styled-components": "^4.1.2",
     "webfontloader": "^1.6.28"
